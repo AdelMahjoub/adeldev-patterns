@@ -258,7 +258,7 @@ msgstr "Titre de l’élément"
 #: patterns/cards.php:47
 #: patterns/cards.php:57
 msgid "Describe this item in a few words: what it is and why it matters."
-msgstr "Décrivez cet élément en quelques mots : ce qu’il est et pourquoi il compte."
+msgstr "Décrivez cet élément en quelques mots : ce qu’il est et pourquoi il compte."
 
 #: patterns/contact.php:24
 #: patterns/cta.php:26
@@ -302,7 +302,7 @@ msgstr "Horaires"
 
 #: patterns/cta.php:17
 msgid "Ready to take the next step?"
-msgstr "Prêt à passer à l’étape suivante ?"
+msgstr "Prêt à passer à l’étape suivante ?"
 
 #: patterns/cta.php:21
 msgid "One sentence that removes the last doubt before contacting you."
@@ -325,7 +325,7 @@ msgstr "Questions fréquentes"
 #: patterns/faq.php:44
 #: patterns/faq.php:50
 msgid "A question your clients often ask?"
-msgstr "Une question que vos clients posent souvent ?"
+msgstr "Une question que vos clients posent souvent ?"
 
 #: patterns/faq.php:33
 #: patterns/faq.php:39
@@ -425,7 +425,7 @@ msgstr "Prénom, ville"
 
 #: patterns/text-image.php:35
 msgid "Explain the subject in a few sentences: what it is, who it is for and what it brings."
-msgstr "Expliquez le sujet en quelques phrases : ce que c’est, pour qui, et ce que cela apporte."
+msgstr "Expliquez le sujet en quelques phrases : ce que c’est, pour qui, et ce que cela apporte."
 
 #: patterns/text-image.php:39
 msgid "Add a second paragraph if needed, then a link to the page that goes further."

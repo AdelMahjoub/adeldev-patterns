@@ -3,7 +3,7 @@
  * Plugin Name:       Adeldev Patterns
  * Plugin URI:        https://github.com/AdelMahjoub/adeldev-patterns
  * Description:       A library of ready-to-edit page sections (hero, cards, steps, key figures, testimonials, FAQ, gallery, call to action, contact, latest posts) made of core blocks only and styled by the active theme.
- * Version:           0.1.0
+ * Version:           0.1.1
  * Requires at least: 6.9
  * Requires PHP:      8.1
  * Author:            Adel Mahjoub
@@ -19,7 +19,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'ADELDEV_PATTERNS_VERSION', '0.1.0' );
+define( 'ADELDEV_PATTERNS_VERSION', '0.1.1' );
 define( 'ADELDEV_PATTERNS_FILE', __FILE__ );
 define( 'ADELDEV_PATTERNS_DIR', plugin_dir_path( __FILE__ ) );
 define( 'ADELDEV_PATTERNS_REPOSITORY', 'AdelMahjoub/adeldev-patterns' );
